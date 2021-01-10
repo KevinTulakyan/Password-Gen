@@ -1,5 +1,6 @@
 # Password-Gen
-- Added Js code to make the random generator run
+- Built for random generation of passwords
+- Used HTML, CSS and JavaScript
 ![Frontpage](hw1.PNG)
 ![Password shown](hw2.PNG)
 # Usage
